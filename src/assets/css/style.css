@@ -1,0 +1,15 @@
+._paginate{
+    display: flex;
+    margin-top: 10px;
+    margin-right: 10px;
+    justify-content: end;
+}
+
+._paginate{
+    list-style-type: none;
+}
+
+.page-paginate{
+    margin-left: 10px;
+    margin-right: 10px;
+}
